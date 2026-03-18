@@ -179,3 +179,8 @@ python app.py
 ## License & Credits
 
 Built for educational institutions. Uses [face_recognition](https://github.com/ageitgey/face_recognition), [Flask](https://flask.palletsprojects.com/), [Chart.js](https://www.chartjs.org/), [Lucide icons](https://lucide.dev/), [jsQR](https://github.com/cozmo/jsQR).
+
+Contact me :
+9502902877
+saikrishnahari196@gmail.com
+
